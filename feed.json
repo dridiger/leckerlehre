@@ -1,0 +1,69 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "leckerlehre",
+    "description": "",
+    "home_page_url": "https://leckerlehre.de",
+    "feed_url": "https://leckerlehre.de/feed.json",
+    "user_comment": "",
+    "icon": "https://leckerlehre.de/media/website/Glucksjenni-Designs.opt-2.svg",
+    "author": {
+        "name": "Jennifer Dridiger"
+    },
+    "items": [
+        {
+            "id": "https://leckerlehre.de/dein-weg-zum-glueck/",
+            "url": "https://leckerlehre.de/dein-weg-zum-glueck/",
+            "title": "Dein Weg zum Glück",
+            "author": {
+                "name": "Jennifer Dridiger"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-10T14:37:56+01:00",
+            "date_modified": "2024-12-10T14:37:56+01:00"
+        },
+        {
+            "id": "https://leckerlehre.de/mein-angebot/",
+            "url": "https://leckerlehre.de/mein-angebot/",
+            "title": "Mein Angebot",
+            "author": {
+                "name": "Jennifer Dridiger"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-10T14:36:59+01:00",
+            "date_modified": "2024-12-10T14:36:59+01:00"
+        },
+        {
+            "id": "https://leckerlehre.de/glueck/",
+            "url": "https://leckerlehre.de/glueck/",
+            "title": "Glück",
+            "summary": "Ich stehe am Ufer und fühle Glück. Das ist es also. Viel zu selten spürt man dieses Gefühl im hektischen Alltag. Während das Leben vorbei zieht mit seinen Herausforderungen, Ärgernissen und Problemen. An solch einem Tag bin ich los. Eigentlich nur um ein paar Sachen&hellip;",
+            "content_html": "<p>Ich stehe am Ufer und fühle Glück. Das ist es also.<br><br>Viel zu selten spürt man dieses Gefühl im hektischen Alltag. Während das Leben vorbei zieht mit seinen Herausforderungen, Ärgernissen und Problemen.<br><br>An solch einem Tag bin ich los. Eigentlich nur um ein paar Sachen zu erledigen. Auf dem Rückweg jedoch sag ich mir, mach noch einen Abstecher ans Wasser. Du liebst das Wasser. Heute ist so ein schöner Tag. Bewölkt. Starker Nieselregen und \"mild\" (im Gegensatz zu den vorherigen Minusgraden). Ich habe gute Musik im Ohr und fühle mich fit.<br><br>Am Wasser angekommen fühle ich also dieses Glück. Glück und Dankbarkeit hier sein zu können. Einfach mal kurz ans Wasser und einmal durchatmen können.<br><br>Ich weine vor Glück.</p>",
+            "author": {
+                "name": "Jennifer Dridiger"
+            },
+            "tags": [
+                   "Gedankenwelt"
+            ],
+            "date_published": "2022-12-22T11:23:00+01:00",
+            "date_modified": "2024-12-10T14:37:31+01:00"
+        },
+        {
+            "id": "https://leckerlehre.de/gluecklich/",
+            "url": "https://leckerlehre.de/gluecklich/",
+            "title": "Glücklich",
+            "summary": "Und dann bin ich einfach glücklich. Einfach so. Wie konnte das passieren? Heute ging es mir doch noch ganz anders. Und gestern erst...ich mag garnicht dran denken. Und den Tag davor...nein, die Tage davor...achwas, der ganze letzte Monat hatte es in sich. Lag es wirklich&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">Und dann bin ich einfach glücklich. Einfach so. Wie konnte das passieren? Heute ging es mir doch noch ganz anders. Und gestern erst...ich mag garnicht dran denken. Und den Tag davor...nein, die Tage davor...achwas, der ganze letzte Monat hatte es in sich. Lag es wirklich nur an diesem Monat? Oder eher an den ganzen letzten Monaten davor?</span></p>\n<p><span style=\"font-weight: 400;\">Woran liegt es wirklich, dass es uns nicht gut geht? An uns? An unseren Gedanken? An den äußeren Umständen, Umweltfaktoren oder Schicksalschlägen? Oder vielleicht an allem zusammen?</span></p>\n<p><span style=\"font-weight: 400;\">Und wie kann es sein, dass es mir scheinbar urplötzlich wieder gut geht? Hab ich einen Hinweis übersehen? Hab ich einfach drauf los gelebt ohne zu fragen und zu hinterfragen? Ohne zu zweifeln? Die ganzen Angstgedanken ignoriert und mich auf das Hier und Jetzt eingelassen statt im Gedankenkarussell mich gefangen halten zu lassen?</span></p>\n<p>Warum bin ich jetzt einfach glücklich? Und wird es in einer Minute immer noch so sein oder heute Abend...morgen...nächste Woche?</p>",
+            "author": {
+                "name": "Jennifer Dridiger"
+            },
+            "tags": [
+                   "Gedankenwelt",
+                   "AuDHS"
+            ],
+            "date_published": "2021-12-19T09:37:30+01:00",
+            "date_modified": "2024-12-10T14:37:39+01:00"
+        }
+    ]
+}

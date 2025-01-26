@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>leckerlehre</title>
+    <link href="https://leckerlehre.de/feed.xml" rel="self" />
+    <link href="https://leckerlehre.de" />
+    <updated>2024-12-10T14:37:56+01:00</updated>
+    <author>
+        <name>Jennifer Dridiger</name>
+    </author>
+    <id>https://leckerlehre.de</id>
+
+    <entry>
+        <title>Dein Weg zum Glück</title>
+        <author>
+            <name>Jennifer Dridiger</name>
+        </author>
+        <link href="https://leckerlehre.de/dein-weg-zum-glueck/"/>
+        <id>https://leckerlehre.de/dein-weg-zum-glueck/</id>
+
+        <updated>2024-12-10T14:37:56+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Mein Angebot</title>
+        <author>
+            <name>Jennifer Dridiger</name>
+        </author>
+        <link href="https://leckerlehre.de/mein-angebot/"/>
+        <id>https://leckerlehre.de/mein-angebot/</id>
+
+        <updated>2024-12-10T14:36:59+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Glück</title>
+        <author>
+            <name>Jennifer Dridiger</name>
+        </author>
+        <link href="https://leckerlehre.de/glueck/"/>
+        <id>https://leckerlehre.de/glueck/</id>
+            <category term="Gedankenwelt"/>
+
+        <updated>2022-12-22T11:23:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Ich stehe am Ufer und fühle Glück. Das ist es also. Viel zu selten spürt man dieses Gefühl im hektischen Alltag. Während das Leben vorbei zieht mit seinen Herausforderungen, Ärgernissen und Problemen. An solch einem Tag bin ich los. Eigentlich nur um ein paar Sachen&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Ich stehe am Ufer und fühle Glück. Das ist es also.<br><br>Viel zu selten spürt man dieses Gefühl im hektischen Alltag. Während das Leben vorbei zieht mit seinen Herausforderungen, Ärgernissen und Problemen.<br><br>An solch einem Tag bin ich los. Eigentlich nur um ein paar Sachen zu erledigen. Auf dem Rückweg jedoch sag ich mir, mach noch einen Abstecher ans Wasser. Du liebst das Wasser. Heute ist so ein schöner Tag. Bewölkt. Starker Nieselregen und "mild" (im Gegensatz zu den vorherigen Minusgraden). Ich habe gute Musik im Ohr und fühle mich fit.<br><br>Am Wasser angekommen fühle ich also dieses Glück. Glück und Dankbarkeit hier sein zu können. Einfach mal kurz ans Wasser und einmal durchatmen können.<br><br>Ich weine vor Glück.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Glücklich</title>
+        <author>
+            <name>Jennifer Dridiger</name>
+        </author>
+        <link href="https://leckerlehre.de/gluecklich/"/>
+        <id>https://leckerlehre.de/gluecklich/</id>
+            <category term="Gedankenwelt"/>
+            <category term="AuDHS"/>
+
+        <updated>2021-12-19T09:37:30+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Und dann bin ich einfach glücklich. Einfach so. Wie konnte das passieren? Heute ging es mir doch noch ganz anders. Und gestern erst...ich mag garnicht dran denken. Und den Tag davor...nein, die Tage davor...achwas, der ganze letzte Monat hatte es in sich. Lag es wirklich&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="font-weight: 400;">Und dann bin ich einfach glücklich. Einfach so. Wie konnte das passieren? Heute ging es mir doch noch ganz anders. Und gestern erst...ich mag garnicht dran denken. Und den Tag davor...nein, die Tage davor...achwas, der ganze letzte Monat hatte es in sich. Lag es wirklich nur an diesem Monat? Oder eher an den ganzen letzten Monaten davor?</span></p>
+<p><span style="font-weight: 400;">Woran liegt es wirklich, dass es uns nicht gut geht? An uns? An unseren Gedanken? An den äußeren Umständen, Umweltfaktoren oder Schicksalschlägen? Oder vielleicht an allem zusammen?</span></p>
+<p><span style="font-weight: 400;">Und wie kann es sein, dass es mir scheinbar urplötzlich wieder gut geht? Hab ich einen Hinweis übersehen? Hab ich einfach drauf los gelebt ohne zu fragen und zu hinterfragen? Ohne zu zweifeln? Die ganzen Angstgedanken ignoriert und mich auf das Hier und Jetzt eingelassen statt im Gedankenkarussell mich gefangen halten zu lassen?</span></p>
+<p>Warum bin ich jetzt einfach glücklich? Und wird es in einer Minute immer noch so sein oder heute Abend...morgen...nächste Woche?</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
